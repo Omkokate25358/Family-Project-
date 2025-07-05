@@ -11,14 +11,14 @@ function App() {
             <div className="flex items-center space-x-3">
               <Factory className="h-10 w-10" />
               <div>
-                <h1 className="text-3xl font-bold">Kokate Cement Products</h1>
+                <h1 className="text-3xl font-bold">Kokate  Cement Products</h1>
                 <p className="text-red-100">देवयानी कन्स्ट्रक्शन</p>
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-6">
               <div className="flex items-center space-x-2">
                 <Phone className="h-5 w-5" />
-                <span className="font-semibold">7083212134 / 8830</span>
+                <span className="font-semibold">7083212134 / 8830180456</span>
               </div>
             </div>
           </div>
